@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahesa-scooter-rental-bali-a74g.vercel.app/sitemap.xml
